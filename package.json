@@ -1,0 +1,7 @@
+{
+    "homepage": "http://Moufaso.github.io/Shopping-List-App/",
+    "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
+    }
+}
